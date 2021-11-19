@@ -633,6 +633,7 @@ footer .text span a:hover{
   }
 }
 @media (max-width: 1000px) {
+  .hero-image{dispaly: none;}
   .about .about-details{
     justify-content: center;
     flex-direction: column;
